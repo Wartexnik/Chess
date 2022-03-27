@@ -1,2 +1,2 @@
 # Chess
- Adaptation of a classic game
+ Implementation of a classic game designed for two players on the same device.
